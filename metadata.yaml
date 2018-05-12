@@ -1,0 +1,37 @@
+_repo: The-Sea-Lady_35920
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Baumer, Lewis Christopher Edward
+    birthdate: 1870
+    deathdate: 1963
+    gutenberg_agent_id: '31813'
+    url: http://www.gutenberg.org/2009/agents/31813
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wells, H. G. (Herbert George)
+    alias: Wells, Herbert George
+    birthdate: 1866
+    deathdate: 1946
+    gutenberg_agent_id: '30'
+    url: http://www.gutenberg.org/2009/agents/30
+    wikipedia: http://en.wikipedia.org/wiki/H._G._Wells
+description: ''
+gutenberg_issued: '2011-04-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35920'
+  lccn: '02023406'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Mermaids -- Fiction'
+- !lcsh 'Fantasy fiction'
+title: The Sea Lady
+url: http://www.gutenberg.org/ebooks/35920
